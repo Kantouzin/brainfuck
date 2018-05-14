@@ -24,4 +24,4 @@ Look in the `tests` directory.
 
 ## License
 
-MIT License
+WTFPL
